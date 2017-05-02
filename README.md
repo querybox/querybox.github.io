@@ -1,4 +1,6 @@
 {{site.github.owner_name}}
+{{site.github.my_variable}}
+{{my_variable}}
 
 ## Welcome to GitHub Pages
 
