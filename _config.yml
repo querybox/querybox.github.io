@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 owner_name: testing
+site.github.owner_name: testing
 my_variable: my_value
