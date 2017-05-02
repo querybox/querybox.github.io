@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+repository: cristianobarros/querybox
 owner_name: testing
 site.github.owner_name: testing
 my_variable: my_value
